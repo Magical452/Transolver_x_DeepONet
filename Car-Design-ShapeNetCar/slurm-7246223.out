@@ -1,0 +1,10 @@
+---------------------------------------
+Begin Slurm Prolog: Nov-22-2026 20:22:51
+Job ID:    7246223
+User ID:   mli863
+Account:   coc
+Job name:  cd
+Partition: coc-cpu
+QOS:       coc-ice
+---------------------------------------
+/var/lib/slurm/slurmd/job7246223/slurm_script: line 2: cd: jobs: No such file or directory
